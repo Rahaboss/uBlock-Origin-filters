@@ -1,0 +1,13 @@
+! 2022-08-17 https://www.hinnavaatlus.ee
+www.hinnavaatlus.ee##.sidebar
+www.hinnavaatlus.ee##.content-header > div:nth-of-type(1)
+www.hinnavaatlus.ee##.products-header > .container
+www.hinnavaatlus.ee##main > .is-horizontal
+www.hinnavaatlus.ee##.product-list > div:nth-of-type(2)
+www.hinnavaatlus.ee##main > .topMargin
+www.hinnavaatlus.ee##div.content.wrap > div.layer
+www.hinnavaatlus.ee##div#svelte:style(overflow-y: hidden)
+
+www.hinnavaatlus.ee##main > div.container.svelte-5rpin
+www.hinnavaatlus.ee##main > div.svelte-rb5925
+www.hinnavaatlus.ee##main > div.container.svelte-izre8h
