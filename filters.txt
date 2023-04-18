@@ -1,4 +1,3 @@
-! 2022-08-17 https://www.hinnavaatlus.ee
 www.hinnavaatlus.ee##.sidebar
 www.hinnavaatlus.ee##.content-header > div:nth-of-type(1)
 www.hinnavaatlus.ee##.products-header > .container
@@ -7,17 +6,12 @@ www.hinnavaatlus.ee##.product-list > div:nth-of-type(2)
 www.hinnavaatlus.ee##main > .topMargin
 www.hinnavaatlus.ee##div.content.wrap > div.layer
 www.hinnavaatlus.ee##div#svelte:style(overflow-y: hidden)
-
 www.hinnavaatlus.ee##main > div.container.svelte-5rpin
 www.hinnavaatlus.ee##main > div.svelte-rb5925
 www.hinnavaatlus.ee##main > div.container.svelte-izre8h
-
-! 2022-10-03 https://www.hinnavaatlus.ee
+www.hinnavaatlus.ee##.svelte-rb5925
 www.hinnavaatlus.ee##.svelte-1qkpdu7.ad
 
-! 2022-10-13 https://www.auto24.ee
 ||reklaam.auto24.ee/images/9d9f79beded5fcd6659d881754eded9b.jpg$image
 
-! 2022-10-24 https://www.hinnavaatlus.ee
-www.hinnavaatlus.ee##.svelte-rb5925
-
+aeromotors.ee##body:style(background-image: none !important)
