@@ -12,7 +12,7 @@ www.hinnavaatlus.ee##main > div.container.svelte-izre8h
 www.hinnavaatlus.ee##.svelte-rb5925
 www.hinnavaatlus.ee##.svelte-1qkpdu7.ad
 
-||reklaam.auto24.ee/images/9d9f79beded5fcd6659d881754eded9b.jpg$image
+||reklaam.auto24.ee/images$image
 
 aeromotors.ee##body:style(background-image: none !important)
 github.com##.FormControl--fullWidth.width-full.FormControl > .FormControl-label:style(user-select: inherit !important)
