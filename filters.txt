@@ -17,3 +17,8 @@ www.hinnavaatlus.ee##.svelte-1qkpdu7.ad
 aeromotors.ee##body:style(background-image: none !important)
 github.com##.FormControl--fullWidth.width-full.FormControl > .FormControl-label:style(user-select: inherit !important)
 
+suchen.mobile.de##.W0RYj.KnOLI.m7u5r
+suchen.mobile.de##.HaBLt.jKo2y
+suchen.mobile.de##.iKWwq > .W0RYj.KnOLI
+suchen.mobile.de##.W0RYj.KnOLI.Q8G_R
+
